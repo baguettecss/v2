@@ -50,24 +50,24 @@ a {
     list-style-type: none;
 }
 
--br1 {
+.-br1 {
   border-radius: 1rem;
 }
--br2 {
+.-br2 {
   border-radius: 2rem;
 }
--br3 {
+.-br3 {
   border-radius: 3rem;
 }
--br4 {
+.-br4 {
   border-radius: 4rem;
 }
--br5 {
+.-br5 {
   border-radius: 5rem;
 }
--br6 {
+.-br6 {
   border-radius: 6rem;
 }
--bgred {
+.-bg-red {
   background-color: #da3434;
 }
